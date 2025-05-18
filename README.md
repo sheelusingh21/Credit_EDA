@@ -21,7 +21,7 @@ Loan providers often struggle with applicants lacking sufficient credit history,
 2. Customer repayment behavior (e.g., late payments)
 3. Loan and client attributes
 
-## CONCLUSION
+## Conclusion
  In conclusion, the insights gathered from this project shed light on
  various aspects of loan applicants' characteristics and behaviors. The
  analysis of income totals revealed the presence of outliers, indicating
